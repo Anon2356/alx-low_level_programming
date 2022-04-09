@@ -4,7 +4,7 @@
  * main - entry point
  *
  * Return: Always 0 (Sucess/correct)
- * printing the alphabet 
+ * printing the alphabet
  */
 int main(void)
 {
