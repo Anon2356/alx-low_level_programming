@@ -4,8 +4,7 @@
 int main(void)
 {
 char lc;
-char uc
-
+char uc;
 for (lc = 'a'; lc <= 'z'; lc++)
 {
 	putchar(lc);
