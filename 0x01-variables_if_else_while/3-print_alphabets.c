@@ -3,8 +3,9 @@
 /**
  * main - entry point
  *
- * Return: Always 0 (Sucess/correct) 
- * printing the alphabet */
+ * Return: Always 0 (Sucess/correct)
+ * printing the alphabet 
+ */
 int main(void)
 {
 char lc;
