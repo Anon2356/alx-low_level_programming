@@ -1,6 +1,10 @@
 #include <stdio.h>
 
-/* printing the alphabet */
+/**
+ * main - entry point
+ *
+ * Return: Always 0 (Sucess/correct) 
+ * printing the alphabet */
 int main(void)
 {
 char lc;
