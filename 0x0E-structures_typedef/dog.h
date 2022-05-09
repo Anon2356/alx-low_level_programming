@@ -1,4 +1,4 @@
-#ifndef _HEADER_
+#ifdef _HEADER_
 #define _HEADER_
 
 /**
